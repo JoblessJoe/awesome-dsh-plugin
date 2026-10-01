@@ -1,0 +1,5 @@
+url: https://github.com/JoblessJoe/dsh-llm-ollama-native
+name: JoblessJoe/dsh-llm-ollama-native
+category: model
+description:
+  en: Ollama adapter using the native /api/chat endpoint so reasoningEffort actually controls thinking, which the OpenAI-compatible route silently ignores.
